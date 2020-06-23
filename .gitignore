@@ -1,3 +1,5 @@
 .gitconfig
 .gitattributes
 *.ipynb_checkpoints
+python_wrapper.sh
+*.ipynb.bak
